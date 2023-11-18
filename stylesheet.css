@@ -19,7 +19,21 @@ a {
     justify-content: space-around;
 }
 
-.two-ramen-container {
+.light-letter-container {
     color: lightgrey;
 
+}
+
+.bf-title {
+    display: flex;
+    justify-content: center;
+}
+
+.ingredient-number {
+    height: 100px;
+    width: 100px;
+    padding: 5px;
+    background-color: pink;
+    border-radius: 75%;
+    display: inline;
 }
